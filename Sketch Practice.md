@@ -6,4 +6,4 @@
 
 接下來再打開Sketch的時候，Sketch也有自己的 Toolbar，請在那邊點一下右鍵，選擇 "Customize Toolbar"
 
-![Alt text](/Sketch Practice pics/toolbar.png)
+![Alt text](/SketchPracticepics/toolbar.png)
