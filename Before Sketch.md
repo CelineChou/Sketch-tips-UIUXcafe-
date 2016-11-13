@@ -21,3 +21,12 @@
 
 ###Good UI Design
 
+上課前Dix先介紹了一個網站叫 GoodUI Design [http://goodui.org/](http://goodui.org/)，裡面講了很多設計的原則。
+
+
+###Google Material Design
+另外一個在課程中常常會提到的，就是現行兩大作業系統 iOS和 Android的 Design Guideline，建議大家一定要熟讀。
+
+iOS：[https://developer.apple.com/ios/human-interface-guidelines/](https://developer.apple.com/ios/human-interface-guidelines/)
+
+Android：[https://material.google.com/](https://material.google.com/)
