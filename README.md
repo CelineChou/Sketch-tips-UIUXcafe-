@@ -10,7 +10,7 @@
 雖然設計是產品很重要的一環，但是擁有基本的產品知識更是不可或缺的一部份。
 這個章節會帶我們了解一些簡單的數據、分析方法、mindset
 
-###Sketch實作內容###
+###[Sketch實作內容](https://github.com/CelineChou/Sketch-tips-UIUXcafe-/blob/master/Sketch%20Practice.md)###
 Sketch實作內容會不斷強調Symbol的重要性（畢竟Symbol是Sketch的核心價值），以及工作上如何配合許多快捷鍵增進工作效率。
 
 ###強大的Plugins介紹###
