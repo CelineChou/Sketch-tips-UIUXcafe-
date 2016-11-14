@@ -47,7 +47,9 @@ Symbol其實可以把它想成模組化的東西，一個介面只要有任何�
 建立 Symbol很簡單，只要把你想要的元素選起來，點擊左上角的`Create Symbol`![Alt text](/SketchPracticepics/createsymbol.png)後，就會看到`Page`多了一頁放置Symbol。
 
 點進去 Symbol的那個頁面就可以直接在這裡編輯Symbol囉。
+
 ![Alt text](/SketchPracticepics/symbolpage.png)
+
 
 重點來了，Symbol的好處到底在哪？
 
@@ -58,3 +60,6 @@ Symbol的這個頁面裡，只要裡編輯這裡的Symbol，你的設計稿上�
 
 
 ###Create New Shared Style
+
+當我們建立好畫布（這邊以 iPhone）、設定好尺寸後就可以開始實作啦～課程以 "iPhone的聯絡人頁面"為範例，我們要從零開始把它畫出來。
+
