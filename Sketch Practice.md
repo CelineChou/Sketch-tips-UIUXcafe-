@@ -127,3 +127,21 @@ Symbol的這個頁面裡，只要裡編輯這裡的Symbol，你的設計稿上�
 成功後可以看到這樣的畫面：
 
 ![Alt text](/SketchPracticepics/homepage-1.png)
+
+
+雖然這個方法很迅速，但還是免不了需要一個個填寫不同的聯絡人資訊。這個時候我們可以使用一個外掛叫做 `Craft`![Alt text](/SketchPracticepics/craft.png)，這是一個 invision出的 Sketch外掛。
+
+詳細的下載與使用方式在這裡：[https://github.com/CelineChou/Sketch-tips-UIUXcafe-/blob/master/SketchPlugins.md](https://github.com/CelineChou/Sketch-tips-UIUXcafe-/blob/master/SketchPlugins.md)
+
+下載安裝後可以看到 Sketch在畫布和右側控制列的中間出現了四個不同的圖示:
+
+![Alt text](/SketchPracticepics/craft-1.png)
+
+當我們把資料格式設定好後（資料格式設定請見 Skethc外掛篇），回到畫布，再點擊第四個圖示就可以設定要複製幾個資訊。
+
+我們使用了這個外掛後，可以將每個欄位核對到 Craft中，當我們複製下拉這個 cell的時候， Craft就會自動幫你把資訊填進去這個欄位裡，我們就不用絞盡腦汁想說要填哪些假資料了。
+
+確定後，就可以看到以下資訊：
+![Alt text](/SketchPracticepics/homepage-2.png)
+
+到這邊，我們的聯絡人資訊就大致上完成了。
