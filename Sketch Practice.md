@@ -112,3 +112,18 @@ Symbol的這個頁面裡，只要裡編輯這裡的Symbol，你的設計稿上�
 畫好之後，大概會長得像這樣：
 
 ![Alt text](/SketchPracticepics/contactcell.png)
+
+
+###複製許多個聯絡人資訊###
+
+當我們將一個cell編輯好後，再回到畫布的頁面：
+
+![Alt text](/SketchPracticepics/homepage.png)
+
+如果我們需要讓這個頁面出現很多一樣的聯絡人資訊，只需要把這個 cell選起來，然後找到我們一開始在最上面的工具列增加的 `Make Grid`，設定好你要增加的個數，就可以看到畫布上成功複製了。
+
+![Alt text](/SketchPracticepics/gridtool.png)
+
+成功後可以看到這樣的畫面：
+
+![Alt text](/SketchPracticepics/homepage-1.png)
