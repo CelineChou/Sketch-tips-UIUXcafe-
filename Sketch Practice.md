@@ -111,4 +111,4 @@ Symbol的這個頁面裡，只要裡編輯這裡的Symbol，你的設計稿上�
 
 畫好之後，大概會長得像這樣：
 
-![Alt text](/SketchPracticepics/contectcell.png)
+![Alt text](/SketchPracticepics/contactcell.png)
