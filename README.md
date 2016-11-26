@@ -13,6 +13,6 @@
 ###[Sketch實作內容](https://github.com/CelineChou/Sketch-tips-UIUXcafe-/blob/master/Sketch%20Practice.md)###
 Sketch實作內容會不斷強調Symbol的重要性（畢竟Symbol是Sketch的核心價值），以及工作上如何配合許多快捷鍵增進工作效率。
 
-###強大的Plugins介紹###
+###[強大的Plugins介紹](https://github.com/CelineChou/Sketch-tips-UIUXcafe-/blob/master/SketchPlugins.md)###
 Plugin雖然很好用，搞不好用過就回不去了，但是還是了解在沒有Plugin的時候要怎麼操作（哪天Sketch更新導致外掛不能開會很崩潰），
 但在一般情況下，適時的使用外掛可以減少很多不必要的手工活兒。
